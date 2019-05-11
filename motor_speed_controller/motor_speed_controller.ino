@@ -9,7 +9,7 @@
   OUT1 - Motor Left Pin
   GND - Arduino GND
   GND - Arduino GND
-  OUT2 - Arduino Right Pin
+  OUT2 - Motor Right Pin
   IN2 - Arduino Pin 8
   Vs (Power Supply for Motor) - Vss (In this case, Arduino 5V)
   EN2 - NC

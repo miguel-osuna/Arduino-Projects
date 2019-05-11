@@ -27,6 +27,7 @@
   1 Piezo Buzzer
   1 Digital LCD
   1 Ultra-sonic sensor
+  1 Potentiometer
 
   Created 11/3/19
   By Miguel Osuna
